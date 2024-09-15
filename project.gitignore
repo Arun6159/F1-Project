@@ -1,0 +1,16 @@
+# Ignore virtual environment folder
+venv/
+
+# Ignore cache and temporary files
+__pycache__/
+.cache/
+*.pyc
+
+# Ignore Streamlit cache
+streamlit/
+
+# Ignore data files (if any)
+data/
+
+# Ignore environment files
+.env
